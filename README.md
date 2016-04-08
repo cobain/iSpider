@@ -1,6 +1,6 @@
 # iSpider
 
-爬取多玩图库中的搞笑gif,目前只支持windows
+爬取多玩图库中的搞笑gif, 支持windows，linux
 
 ## 依赖
 __selenium__  
